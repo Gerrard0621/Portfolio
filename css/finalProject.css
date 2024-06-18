@@ -1,0 +1,61 @@
+
+.final_project_detail {
+  display: flex;
+  margin-top: 2em;
+}
+
+.final_project_title {
+  display: flex;
+  align-items: center;
+}
+
+.final_project_title span:first-child {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.final_project_title span:last-child {
+  color: #bbb;
+  font-size: 1.3em;
+  margin-left: 0.1em;
+}
+
+.final_project_desc {
+  margin-left: 1em;
+  margin-top: 1em;
+  font-size: 1.4em;
+  transition: color 0.3s, font-weight 0.3s;
+}
+
+.final_project_desc:hover {
+  color: blue; 
+}
+
+.final_project_img {
+  width: 40%;
+  height: 20%; 
+  margin-left: 1em; 
+}
+
+.final_project_info {
+  width: 50%;
+}
+
+.tech_list ul {
+  padding-left: 1.5em;
+  margin-top: 0.5em; 
+}
+
+.tech_list ul li {
+  list-style-type: disc;
+  margin-left: 1em;
+}
+
+.project_details span {
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+.tech_list {
+  margin-top: 1em; 
+}

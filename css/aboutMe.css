@@ -1,0 +1,35 @@
+.main_b {
+    margin:0em 5em 5em 15em;
+}
+.profile_detail {
+    display: flex;
+    margin-top: 2em;
+}
+.profile_desc {
+    margin-left:5em;
+    color: black;
+}
+.profile_desc2 {
+    margin-left:1em;
+    margin-top:2em;
+    font-size:1.5em;
+    color: blue;
+}
+.profile_desc3 {
+    margin-left:1em;
+    margin-top:1em;
+    font-size:1.5em;
+}
+.profile_img {
+    width:50%;
+    height:36em;
+}
+.profile_info {
+    width:50%;
+}
+.li_d {
+    margin-top: 1em;
+}
+#comment {
+    margin-top:10em;
+}

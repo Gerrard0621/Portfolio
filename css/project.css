@@ -1,0 +1,62 @@
+.main_b {
+    margin: 5em 5em 5em 15em;
+}
+.title {
+    display: flex;
+    align-items: flex-end; 
+}
+.sub_title {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0.5em; 
+    font-size: 1.3em;
+}
+.button_main {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-wrap: wrap;
+    margin-top: 1em;
+}
+.button_div {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-wrap: wrap; 
+    gap: 1em; 
+    width: auto; 
+    margin-bottom: 1em;
+}
+.button_box {
+    width: 200px; 
+    margin: 0.5em; 
+    border: 2px solid blue;
+    border-radius: 6px;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+.button_box:hover {
+    cursor: pointer;
+    background-color: #5887f5;
+    color: white;
+}
+.button_box:hover .img_dv {
+    color: white;
+}
+.button_box:hover .project_bottom {
+    color: white;
+}
+.img_dv {
+    margin-top: 1em;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #0758e4;
+}
+.projet_name {
+    margin-top: 0.8em;
+    font-weight: bold;
+}
+.project_bottom {
+    margin: 0.8em 0 1em 0;
+    color: black;
+}
