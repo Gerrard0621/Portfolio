@@ -21,8 +21,9 @@
     font-size:1.5em;
 }
 .profile_img {
-    width:600px;
-    height:585px;
+    margin-left: 2.5em;
+    width:380px;
+    height:570px;
 }
 .profile_info {
     width:50%;
